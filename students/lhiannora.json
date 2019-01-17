@@ -1,0 +1,14 @@
+{
+  "firstName": "Xinyi",
+  "lastName": "Luo",
+  "nickName": false,
+  "privateName": false,
+  "picture": "images/lhiannora.jpg",
+  "privatePicture": false,
+  "email": "xy.luo@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "lhiannora",
+  "privateGithub": false,
+  "superpower" : "studying",
+  "academicinterests": "digital history"
+}
